@@ -1,0 +1,68 @@
+{
+  "moguceMasine": 
+  [
+    {
+      "duzina": 1,
+      "sirina": 1,
+      "pocetnaCena": 100,
+      "stepenProzivodnosti": 0.5,
+      "brojSatiTrajanja": 30
+    },
+    {
+      "duzina": 1,
+      "sirina": 1,
+      "pocetnaCena": 200,
+      "stepenProzivodnosti": 0.75,
+      "brojSatiTrajanja": 0
+    }
+  ],
+  "moguciProizvodi": [
+    {
+      "brojSatiDoKvarenja": 0,
+      "naziv": "Šecer"
+    },
+    {
+      "brojSatiDoKvarenja": 0,
+      "naziv": "Jakna"
+    }
+  ],
+  "moguciRadnici": [
+    {
+      "ime": "Milan",
+      "nivoKvalifikacija": 0,
+      "licneOsobine": 0,
+      "plataNaSat": 0,
+      "brojMeseciZaKV": 0,
+      "brojMeseciZaVKV": 0,
+      "brojMeseciZaInzenjera": 0,
+      "jeNaObuci": false
+    },
+    {
+      "ime": "Luka",
+      "nivoKvalifikacija": 0,
+      "licneOsobine": 0,
+      "plataNaSat": 0,
+      "brojMeseciZaKV": 0,
+      "brojMeseciZaVKV": 0,
+      "brojMeseciZaInzenjera": 0,
+      "jeNaObuci": false
+    }
+  ],
+  "moguciProizvodniProcesi": [
+    {
+      "nivoKvalifikacija": 0,
+      "masina": null,
+      "sirovineKolicina": null,
+      "trajanjeUSatima": 0,
+      "izlazniProizvod": null
+    },
+    {
+      "nivoKvalifikacija": 0,
+      "masina": null,
+      "sirovineKolicina": null,
+      "trajanjeUSatima": 0,
+      "izlazniProizvod": null
+    }
+  ]
+}
+

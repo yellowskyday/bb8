@@ -1,0 +1,12 @@
+C:\Users\marinao\source\repos\Zmijica\Roboti\bin\Debug\Roboti.exe.config
+C:\Users\marinao\source\repos\Zmijica\Roboti\bin\Debug\Roboti.exe
+C:\Users\marinao\source\repos\Zmijica\Roboti\bin\Debug\Roboti.pdb
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.Form1.resources
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.FormNivo1.resources
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.Properties.Resources.resources
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.csproj.GenerateResource.cache
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.csproj.CoreCompileInputs.cache
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.exe
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.pdb
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.csprojAssemblyReference.cache
+C:\Users\marinao\source\repos\Zmijica\Roboti\obj\Debug\Roboti.FormNivo2.resources

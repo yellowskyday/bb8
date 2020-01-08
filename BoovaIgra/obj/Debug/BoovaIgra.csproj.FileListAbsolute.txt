@@ -1,0 +1,9 @@
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\bin\Debug\BoovaIgra.exe.config
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\bin\Debug\BoovaIgra.exe
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\bin\Debug\BoovaIgra.pdb
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.csprojAssemblyReference.cache
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.Properties.Resources.resources
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.csproj.GenerateResource.cache
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.csproj.CoreCompileInputs.cache
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.exe
+C:\Users\marinao\source\repos\Zmijica\BoovaIgra\obj\Debug\BoovaIgra.pdb

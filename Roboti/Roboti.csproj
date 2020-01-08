@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D4EBDC50-3BAD-4C81-863E-061386F9B848}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Roboti</RootNamespace>
+    <AssemblyName>Roboti</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNivo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNivo1.Designer.cs">
+      <DependentUpon>FormNivo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNivo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNivo2.Designer.cs">
+      <DependentUpon>FormNivo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igra.cs" />
+    <Compile Include="ImageHelper.cs" />
+    <Compile Include="Podloge\Zid.cs" />
+    <Compile Include="Podloge\Nista.cs" />
+    <Compile Include="Podloge\KutijaR2D2.cs" />
+    <Compile Include="Podloge\Kutija.cs" />
+    <Compile Include="Podloge\PokretnaTraka.cs" />
+    <Compile Include="Podloge\Trava.cs" />
+    <Compile Include="Podloge\Oblak.cs" />
+    <Compile Include="Podloge\Podloga.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNivo1.resx">
+      <DependentUpon>FormNivo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNivo2.resx">
+      <DependentUpon>FormNivo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Images\BB8 ide prema R2D2.webp" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\bb8 ide prema r2d2Udara.jpeg" />
+    <Content Include="Images\bb8 ide prema r2d2Dole.jpeg" />
+    <Content Include="Images\bb8 ide prema r2d2.jpeg" />
+    <Content Include="Images\bb8 ide prema r2d2Gore.jpeg" />
+    <Content Include="Images\bb8.jpg" />
+    <Content Include="Images\bb8small.jpg" />
+    <Content Include="Images\C3PO-R2D2-BB8.jpg" />
+    <Content Include="Images\fire.jpg" />
+    <Content Include="Images\IMG_1078.JPG" />
+    <Content Include="Images\kutijar2.jpg" />
+    <Content Include="Images\svet.jpg" />
+    <Content Include="Images\nista.jpg" />
+    <Content Include="Images\zid.jpg" />
+    <Content Include="Images\kutija.jpg" />
+    <Content Include="Images\oblak.jpg" />
+    <Content Include="Images\oblak.png" />
+    <Content Include="Images\r2-bb8.jpg" />
+    <Content Include="Images\trava.jpg" />
+    <Content Include="Images\zmijica.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

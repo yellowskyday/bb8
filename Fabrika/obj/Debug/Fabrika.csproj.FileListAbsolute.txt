@@ -1,0 +1,13 @@
+C:\Users\marinao\source\repos\Zmijica\Fabrika\bin\Debug\Fabrika.exe.config
+C:\Users\marinao\source\repos\Zmijica\Fabrika\bin\Debug\Fabrika.exe
+C:\Users\marinao\source\repos\Zmijica\Fabrika\bin\Debug\Fabrika.pdb
+C:\Users\marinao\source\repos\Zmijica\Fabrika\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marinao\source\repos\Zmijica\Fabrika\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.csprojAssemblyReference.cache
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.Form1.resources
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.Properties.Resources.resources
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.csproj.GenerateResource.cache
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.csproj.CoreCompileInputs.cache
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.csproj.CopyComplete
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.exe
+C:\Users\marinao\source\repos\Zmijica\Fabrika\obj\Debug\Fabrika.pdb
